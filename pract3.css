@@ -1,0 +1,31 @@
+body{margin:0%;
+padding: 0%;
+background-color: rgb(211, 230, 234);}
+
+div{height: 100px;
+background-color: rgb(197, 162, 174);}
+
+
+#contanir{display: flex;
+justify-content: space-between;
+align-items: center;
+border: 1px solid black;}
+
+
+#input{height :40px;
+    width: 350px;
+    border-radius: 5%;
+}
+
+#logo{font-family:system-ui, -apple-system;
+
+font-size: 35px;
+font-weight: 400;
+letter-spacing: 0.5;
+margin-left: 100px;
+color: rgba(97, 14, 39, 0.751);
+text-decoration: none;
+
+}
+a{font-size: 20px;}
+#cart{margin-right: 10px;}
